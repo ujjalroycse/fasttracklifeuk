@@ -1,0 +1,287 @@
+
+@media all and (max-width:991px){
+    .banner-section{
+        .container{
+            .banner-area{
+                .banner-left-area{
+                    h1{
+                        font-size: 42px;
+                        line-height: 48px;
+                    }
+                    .h1-svg{
+                        h1{
+                            span{
+                                font-size: 60px;
+                                line-height: 40px;
+                            }
+                        }
+                    }
+                    ul{
+                        margin-top: 30px;
+                        li{
+                            font-size: 15px;
+                            svg{
+                                width: 22px;
+                            }
+                        }
+                    }
+                    .banner-btn{
+                        font-size: 16px;
+                    }
+                }
+                .banner-right-area{
+                    .right-image{
+                        top: 50px;
+                        left: 0;
+                        .student-box{
+                            padding: 15px 17px 13px;
+                            h2{
+                                font-size: 52px;
+                            }
+                            p{
+                                font-weight: 500;
+                                font-size: 15px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media all and (max-width:830px){
+    .banner-section{
+        .container{
+            .banner-area{
+                .banner-left-area{
+                    margin-bottom: 30px;
+                    h1{
+                        font-size: 45px;
+                        line-height: 48px;
+                    }
+                    .h1-svg{
+                        h1{
+                            text-align: center;
+                            span{
+                                font-size: 67px;
+                                line-height: 52px;
+                            }
+                        }
+                    }
+                    ul{
+                        margin-top: 35px;
+                        li{
+                            font-size: 15px;
+                            svg{
+                                width: 22px;
+                            }
+                        }
+                    }
+                    .banner-btn{
+                        font-size: 16px;
+                    }
+                }
+                .banner-right-area{
+                    .right-image{
+                        .student-box{
+                            right: -10px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media all and (max-width:767px){
+    .banner-section{
+        .container{
+            .banner-area{
+                .banner-right-area{
+                    .right-image{
+                        position: relative;
+                        width: 90%;
+                        margin: 40px auto 0;
+                        top: 20px;
+                        .student-box{
+                            top: -50px;
+                            right: -20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media all and (max-width:575px){
+    .banner-section{
+        .container{
+            width: 92%;
+            margin: auto;
+            .banner-area{
+                .banner-left-area{
+                    padding-left: 50px;
+                    p{
+                        margin-bottom: 7px;
+                    }
+                    h1{
+                        font-size: 42px;
+                    }
+                    .h1-svg{
+                        h1{
+                            span{
+                                font-size: 58px;
+                                line-height: 42px;
+                            }
+                        }
+                    }
+                    ul{
+                        margin-bottom: 8px;
+                        li{
+                            font-size: 15px;
+                            margin-bottom: 5px;
+                            svg{
+                                width: 22px;
+                            }
+                        }
+                    }
+                    .banner-btn{
+                        font-size: 15px;
+                        padding: 10px 35px;
+                    }
+                }
+                .banner-right-area{
+                    .right-image{
+                        position: relative;
+                        width: 80%;
+                        margin: 40px auto 0;
+                        top: 20px;
+                        .student-box{
+                            top: -50px;
+                            right: -20px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
+@media all and (max-width:500px){
+    .banner-section{
+        padding: 40px 0;
+        .container{
+            width: 92%;
+            margin: auto;
+            .banner-area{
+                .banner-left-area{
+                    padding-left: 30px;
+                    p{
+                        font-size: 15px;
+                    }
+                    h1{
+                        font-size: 35px;
+                    }
+                    .h1-svg{
+                        h1{
+                            span{
+                                font-size: 48px;
+                                line-height: 42px;
+                            }
+                        }
+                    }
+                    ul{
+                        margin-bottom: 8px;
+                        li{
+                            font-size: 15px;
+                            margin-bottom: 5px;
+                            svg{
+                                width: 18px;
+                            }
+                        }
+                    }
+                    .banner-btn{
+                        font-weight: 500;
+                    }
+                }
+                .banner-right-area{
+                    .right-image{
+                        .student-box{
+                            padding: 15px 15px 11px;
+                            right: -30px;
+                            h2{
+                                font-size: 38px;
+                                line-height: 28px;
+                            }
+                            p{
+                                font-size: 15px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+@media all and (max-width:450px){
+    .banner-section{
+        padding: 40px 0;
+        .container{
+            width: 92%;
+            margin: auto;
+            .banner-area{
+                .banner-left-area{
+                    padding-left: 0px;
+                    p{
+                        font-size: 15px;
+                        margin-bottom: 10px;
+                    }
+                    h1{
+                        font-size: 28px;
+                        line-height: 24px;
+                    }
+                    .h1-svg{
+                        h1{
+                            span{
+                                font-size: 38px;
+                                line-height: 32px;
+                            }
+                        }
+                    }
+                    ul{
+                        margin-top: 20px;
+                        margin-bottom: 8px;
+                        li{
+                            font-size: 14px;
+                            margin-bottom: 0;
+                            svg{
+                                width: 17px;
+                            }
+                        }
+                    }
+                    .banner-btn{
+                        font-weight: 500;
+                    }
+                }
+                .banner-right-area{
+                    .right-image{
+                        .student-box{
+                            padding: 15px 15px 11px;
+                            right: -30px;
+                            h2{
+                                font-size: 32px;
+                                line-height: 20px;
+                            }
+                            p{
+                                font-size: 14px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+}
